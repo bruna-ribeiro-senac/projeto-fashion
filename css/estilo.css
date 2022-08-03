@@ -13,7 +13,7 @@ body{
 }
 .header{ /*cabeçalho*/
     height: 50px;/*altura do cabeçalho*/
-    background-color: #268cdf;
+    background-color: #162028;
     position: relative; /*posicionando relativo para o menu se direcionar por esse elemento*/
 }
 .logo{
